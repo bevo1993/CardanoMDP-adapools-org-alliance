@@ -131,8 +131,13 @@
             "21": {
                 "pool_id": "11cad31f95526b86724c84b818228fc2500bca5ce9b2864a85b94058",
                 "member_since": "2020-12-03",
-                "name": "[CO2P] CO2-Pool"
-            }    
+                "name": "[CO2P] CO2-Pool"    
+            },
+            "22": {
+                "pool_id": "58f356d69e115c172a18b20a720f1108791235aff7757a448c037de1",
+                "member_since": "2020-12-07",
+                "name": "[BUDHA] Buddha Pool"
+            } 
         }
     }
 }
